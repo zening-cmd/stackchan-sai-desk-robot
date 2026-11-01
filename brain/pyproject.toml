@@ -1,0 +1,10 @@
+[project]
+name = "sai-brain"
+version = "0.1.0"
+description = "Sai desk robot brain: conversation model + Sai tasks + StackChan reactions"
+requires-python = ">=3.12"
+dependencies = [
+    "mcp>=1.10",
+    "openai>=1.60",
+    "httpx>=0.27",
+]

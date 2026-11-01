@@ -1,0 +1,8 @@
+{
+ "idle": 252,
+ "happy": 200,
+ "thinking": 720,
+ "sad": 320,
+ "surprised": 117,
+ "embarrassed": 150
+}

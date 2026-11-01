@@ -1,0 +1,17 @@
+# secrets
+.env
+
+# logs, recordings, conversation history, touch events
+runtime/
+
+# face build intermediates (face/build_sai_face.py)
+face/build/
+
+# robot flash backups and downloaded firmware: backups hold your Wi-Fi password
+backup/
+firmware/
+*.bin
+
+.venv/
+__pycache__/
+*.pyc
