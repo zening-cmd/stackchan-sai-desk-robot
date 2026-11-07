@@ -6,7 +6,7 @@ agent, through the **[Sai API on platform.simular.ai](https://platform.simular.a
 desktop (browser, apps, files, email). The robot shows its mood on its face, LEDs and head while Sai works. It asks you
 out loud when Sai needs your okay, and celebrates when the job is done.
 
-![Sai's faces: idle, dance, thinking, sad, surprised, shy](docs/faces.gif)
+<img src="docs/faces.gif" width="360" alt="Sai's faces: idle, dance, thinking, sad, surprised, shy">
 
 ### Demo
 
