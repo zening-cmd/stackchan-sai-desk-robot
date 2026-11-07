@@ -8,6 +8,17 @@ out loud when Sai needs your okay, and celebrates when the job is done.
 
 ![Sai's faces: idle, dance, thinking, sad, surprised, shy](docs/faces.gif)
 
+### Demo
+
+[![Sai dancing on the desk. Click for the full demo video](docs/demo/sai-demo.gif)](docs/demo/sai-demo.mp4)
+
+**[Watch the full demo (1:45)](docs/demo/sai-demo.mp4)**: reactions, ordering on Amazon from a photo, and booking an
+Uber by voice.
+
+| Shy | Head pat | "Order this on Amazon" | "Book me an UberX" |
+| --- | --- | --- | --- |
+| ![Shy face](docs/demo/shy.jpg) | ![Head pat](docs/demo/head-pat.jpg) | ![Sai looks at dental floss and orders it](docs/demo/amazon-floss.jpg) | ![Sai quotes an UberX ride](docs/demo/uber-quote.jpg) |
+
 - **Hardware:** an [M5Stack StackChan](https://github.com/m5stack/StackChan) (CoreS3, ESP32-S3, two servos, camera,
   mic, speaker, 12 LEDs, touch-sensitive head).
 - **Robot software:** the [stackchan-mcp](https://github.com/kisaragi-mochi/stackchan-mcp) firmware and gateway, which
